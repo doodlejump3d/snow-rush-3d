@@ -5,7 +5,7 @@
 ![snow-rush-3d](https://github.com/user-attachments/assets/d964f057-ac08-4980-b51d-96b475f4d956)
 
 <h2>What Is Snow Rush 3D?</h2>
-<p><a href="[https://doodle-jump.co/](https://doodle-jump.co/snow-rush-3d)">Snow Rush 3D</a> places you in the role of a stylish snowboarder racing through a snowy city filled with obstacles, coins, and ramps. Your objective is to go as far as possible while collecting items and avoiding crashes. With smooth controls and dynamic environments, the game keeps you fully engaged from the very first second.</p>
+<p><a href="https://doodle-jump.co/snow-rush-3d">Snow Rush 3D</a> places you in the role of a stylish snowboarder racing through a snowy city filled with obstacles, coins, and ramps. Your objective is to go as far as possible while collecting items and avoiding crashes. With smooth controls and dynamic environments, the game keeps you fully engaged from the very first second.</p>
 
 <h2>Key Features</h2>
 <ul>
